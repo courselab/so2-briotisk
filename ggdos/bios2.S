@@ -1,1 +1,0 @@
-../../eg/tydos/bios2.S
